@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blog Post 2 - Flask Web Development
+---
+
 # Blog Post2 - Simple Flask Web Development
 
 Hi everyone! In this blog post, I am going to create a simple, interesting Message Bank webapp using Flask. This webapp allows users to submit and view their message on the web page. In this tuturial, I will show you how to create this webapp step by step!
